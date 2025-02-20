@@ -59,7 +59,7 @@ Example:
 🌐 Web Page Content Scraper
 ==============================
 
-Enter the website URL to scrape: help.magaya.com
+Enter the website URL to scrape: help.com
 Enter output folder name (press Enter for default 'scraped_pages'): docs
 Enter maximum number of pages to scrape (press Enter for default 50): 20
 Enter page load wait time in seconds (press Enter for default 5):
